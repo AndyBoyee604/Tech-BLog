@@ -10,6 +10,9 @@ JavaScript | Handlebars | CSS | Express | MySQL | Sequelize
 
 No installation required, but does require user to sign up for more features to be enabled.
 
+## Link to website deployed by Heroku
+[Tech-Blog](https://tech-blog-boyee.herokuapp.com/)
+
 ## Website Screenshot
 
 ![](https://github.com/AndyBoyee604/Tech-Blog/blob/main/public/images/Tech-Blog.jpg)
