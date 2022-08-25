@@ -12,7 +12,7 @@ No installation required, but does require user to sign up for more features to 
 
 ## Website Screenshot
 
-![](link)
+![](https://github.com/AndyBoyee604/Tech-Blog/blob/main/public/images/Tech-Blog.jpg)
 
 ## Sources Referenced
 
